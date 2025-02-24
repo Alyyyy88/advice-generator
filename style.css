@@ -55,7 +55,7 @@ body{
   border-radius: 50%;
   margin: auto;
   position: absolute;
-  bottom: 185px;
+  bottom: 218px;
   cursor: pointer;
   transition: box-shadow 0.3s ease-in-out;
 }
